@@ -348,16 +348,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Cement industry experts and consultants
 - Environmental sustainability advocates
 
-## 📞 Support
-
-For technical support and inquiries:
-
-- **Email**: support@cement-plant-optimizer.com
-- **Documentation**: [User Guide](docs/user_guide.md)
-- **Issues**: [GitHub Issues](https://github.com/your-org/cement-plant-ai-optimizer/issues)
-- **Community**: [Discussion Forum](https://github.com/your-org/cement-plant-ai-optimizer/discussions)
-
----
-
 **Cement Plant AI Optimization Platform v2.1.0**
 *Optimizing cement production for efficiency, quality, and sustainability*
